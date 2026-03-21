@@ -27,9 +27,9 @@
       "Finite Volume Method"
     ],
     "education": [
-      { "degree": "Ph.D. — Mechanical Engineering", "institution": "IIT Bombay", "year": "2022", "grade": "CPI 8.07" },
-      { "degree": "M.Tech. — Mechanical (Thermal)", "institution": "NIT Calicut", "year": "2016", "grade": "CPI 7.80" },
-      { "degree": "B.Tech. — Mechanical Engineering", "institution": "BIT Durg (CSVTU)", "year": "2014", "grade": "CPI 9.18" }
+      { "degree": "Ph.D. — Mechanical Engineering", "institution": "IIT Bombay" },
+      { "degree": "M.Tech. — Mechanical (Thermal)", "institution": "NIT Calicut" },
+      { "degree": "B.Tech. — Mechanical Engineering", "institution": "BIT Durg (CSVTU)"}
     ]
   },
   "researchAreas": [
