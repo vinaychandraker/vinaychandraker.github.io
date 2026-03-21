@@ -796,7 +796,7 @@
     projects.map(p => `
       <div class="proj-card rv">
         <div class="proj-title">${p.title}</div>
-        <div class="proj-years">${p.years}</div>
+        ${p.years ? `<div class="proj-years">${p.years}</div>` : ''}
         <div class="proj-desc">${p.description}</div>
         <div class="proj-chips">${p.tags.map(t => `<span class="chip">${t}</span>`).join('')}</div>
       </div>`).join('');
